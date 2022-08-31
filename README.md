@@ -3,6 +3,8 @@
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
 
+## __________________________________________________________________________________________________________________________________________________________
+
 ## About me
  😄 Pronouns: He/His
  🔭 I’m currently building GSSI Group.
@@ -12,8 +14,9 @@
  💬 Ask me about Flutter, CG Animation or any tech-related stuff.
  📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
  ⚡ Fun fact: I love to cuddle with my beloved wife.
+## __________________________________________________________________________________________________________________________________________________________
 
-# Tech Stack 
+## Tech Stack 
 ![ie](https://user-images.githubusercontent.com/103131773/187738478-9bb62060-918a-4922-ab58-b1c40c2b28d2.png)
 ![ps](https://user-images.githubusercontent.com/103131773/187738482-24ea4b57-3182-4b50-81cf-466c48197d3d.png)
 ![xd](https://user-images.githubusercontent.com/103131773/187738486-8716c6b7-acc4-460b-aa96-c149996fdabc.png)
@@ -43,8 +46,9 @@
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
 
+## __________________________________________________________________________________________________________________________________________________________
 
-# Bussiness Owner
+## Bussiness Owner
 ![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
 ![Zenzen Auliya Store 1](https://user-images.githubusercontent.com/103131773/187739757-5f89e762-fc20-479b-add1-a7e18e8a84e0.png)
 ![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png)
