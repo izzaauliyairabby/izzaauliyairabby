@@ -35,10 +35,8 @@
 
 
 # Bussiness Owner
-![zyro-image (1)](https://user-images.githubusercontent.com/103131773/187737962-2045b70d-e74d-499e-bd21-9a03701ea902.png)
-![15623829_370984929935936_7218389846048374784_n](https://user-images.githubusercontent.com/103131773/187737970-fd619483-a38e-4536-886e-a5582f1eedda.jpg)
-![GSSI Tech](https://user-images.githubusercontent.com/103131773/187737972-2a45c12b-63d7-4b93-b9da-950532d3b4c3.jpg)
-<img width="1080" alt="Izzanimation Studio Rainbow" src="https://user-images.githubusercontent.com/103131773/187737974-58219631-5d23-403c-a387-cbec1b25e3ec.png">
-![Zenzen Auliya Store](https://user-images.githubusercontent.com/103131773/187737990-588c5d84-c5b2-4230-8b87-a5e8c545f6bc.png)
-
+![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
+![Zenzen Auliya Store 1](https://user-images.githubusercontent.com/103131773/187739757-5f89e762-fc20-479b-add1-a7e18e8a84e0.png)
+![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png)
+![15623829_370984929935936_7218389846048374784_n 1](https://user-images.githubusercontent.com/103131773/187739761-f8da11d6-5287-46b3-8bbd-421bd0d96db0.png)
 
