@@ -15,6 +15,8 @@
  ⚡ Fun fact: I love to cuddle with my beloved wife.
 
 ## Tech Stack 
+
+![python](https://user-images.githubusercontent.com/103131773/187744844-79e4d7a9-49ea-4fa9-83e9-145b4702c855.png)
 ![ie](https://user-images.githubusercontent.com/103131773/187738478-9bb62060-918a-4922-ab58-b1c40c2b28d2.png)
 ![ps](https://user-images.githubusercontent.com/103131773/187738482-24ea4b57-3182-4b50-81cf-466c48197d3d.png)
 ![xd](https://user-images.githubusercontent.com/103131773/187738486-8716c6b7-acc4-460b-aa96-c149996fdabc.png)
