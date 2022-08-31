@@ -1,18 +1,17 @@
-# 👍👌👏
-## Hi there 
+## Hi there 👍👌👏
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
 
-### About me
-😄 Pronouns: He/His
-🔭 I’m currently building GSSI Group.
-🌱 I’m currently learning more about Web3 and Digital Marketing.
-👯 I’m looking to collaborate on Instagram.
-🤔 I’m looking for help with Flutter development.
-💬 Ask me about Flutter, CG Animation or any tech-related stuff.
-📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
-⚡ Fun fact: I love to cuddle with my beloved wife.
+## About me
+### 😄 Pronouns: He/His
+### 🔭 I’m currently building GSSI Group.
+### 🌱 I’m currently learning more about Web3 and Digital Marketing.
+### 👯 I’m looking to collaborate on Instagram.
+### 🤔 I’m looking for help with Flutter development.
+### 💬 Ask me about Flutter, CG Animation or any tech-related stuff.
+### 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
+### ⚡ Fun fact: I love to cuddle with my beloved wife.
 
 # Tech Stack 
 ![ie](https://user-images.githubusercontent.com/103131773/187738478-9bb62060-918a-4922-ab58-b1c40c2b28d2.png)
@@ -43,7 +42,6 @@
 ![Group 116](https://user-images.githubusercontent.com/103131773/187738558-673981d1-3f35-4029-af49-2809d70bdbb5.png)
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
-
 
 
 # Bussiness Owner
