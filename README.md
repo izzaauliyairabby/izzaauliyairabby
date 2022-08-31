@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # My Name is Izza Auliyai Rabby
 ![295206758_1736941959982207_989206508089300104_n 1](https://user-images.githubusercontent.com/103131773/187739983-3c2c6957-cb66-4767-b388-7cee31966ab3.png)
 ### A man who likes to learn new things and adventure.
