@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there 
+<iframe src="https://giphy.com/embed/MPxg9U887PS0B8XT4J" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J">via GIPHY</a></p>
+
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
