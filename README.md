@@ -1,6 +1,6 @@
 # Hi there 👋
 # My Name is Izza Auliyai Rabby
-![295206758_1736941959982207_989206508089300104_n 1](https://user-images.githubusercontent.com/103131773/187739983-3c2c6957-cb66-4767-b388-7cee31966ab3.png)
+![Group 2](https://user-images.githubusercontent.com/103131773/187740780-b81be721-1296-46bd-8530-092d3931ca35.png)
 ### A man who likes to learn new things and adventure.
 
 # Tech Stack 
