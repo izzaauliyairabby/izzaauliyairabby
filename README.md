@@ -3,7 +3,6 @@
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
 
-## __________________________________________________________________________________________________________________________________________________________
 
 ## About me
  😄 Pronouns: He/His
@@ -14,7 +13,6 @@
  💬 Ask me about Flutter, CG Animation or any tech-related stuff.
  📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
  ⚡ Fun fact: I love to cuddle with my beloved wife.
-## __________________________________________________________________________________________________________________________________________________________
 
 ## Tech Stack 
 ![ie](https://user-images.githubusercontent.com/103131773/187738478-9bb62060-918a-4922-ab58-b1c40c2b28d2.png)
@@ -46,7 +44,6 @@
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
 
-## __________________________________________________________________________________________________________________________________________________________
 
 ## Bussiness Owner
 ![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
