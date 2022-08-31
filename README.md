@@ -1,25 +1,16 @@
-# Hi there 
-
-
+# Hi there ![Hello-Word-PNG-Picture](https://user-images.githubusercontent.com/103131773/187743285-cb0421bf-6cd9-44c7-9f50-ca6eb92e9ab6.png)
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
 
 ### About me
 😄 Pronouns: He/His
-
 🔭 I’m currently building GSSI Group.
-
 🌱 I’m currently learning more about Web3 and Digital Marketing.
-
 👯 I’m looking to collaborate on Instagram.
-
 🤔 I’m looking for help with Flutter development.
-
 💬 Ask me about Flutter, CG Animation or any tech-related stuff.
-
 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
-
 ⚡ Fun fact: I love to cuddle with my beloved wife.
 
 # Tech Stack 
