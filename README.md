@@ -1,4 +1,5 @@
-# Hi there 👏✌👍
+# Hi there ![wave (1)](https://user-images.githubusercontent.com/103131773/187972640-8f8b6a8f-b7f9-4a65-aff2-77b70e0fddc8.gif)
+
 
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
