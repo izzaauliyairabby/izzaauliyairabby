@@ -1,5 +1,5 @@
-## Hi  ![wave](https://user-images.githubusercontent.com/103131773/187871899-882f6635-9aa7-4c47-9725-6da661936a8f.gif)
-there 
+## Hi there ![wave](https://user-images.githubusercontent.com/103131773/187872128-924648b4-1b32-447e-ad14-4fbc6350e5c2.gif)
+
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
