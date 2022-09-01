@@ -5,13 +5,20 @@
 
 
 ## About me
- 😄 Pronouns: He/His
+ 😄 Pronouns: He/His/Him
+ 
  🔭 I’m currently building GSSI Group.
+ 
  🌱 I’m currently learning more about Web3 and Digital Marketing.
+ 
  👯 I’m looking to collaborate on Linkedin.
+ 
  🤔 I’m looking for help with Game development.
+ 
  💬 Ask me about Flutter, CG Animation or any tech-related stuff.
+ 
  📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
+ 
  ⚡ Fun fact: I love to cuddle with my beloved wife.
 
 ## Tech Stack 
