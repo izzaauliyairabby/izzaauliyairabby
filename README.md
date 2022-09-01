@@ -1,4 +1,4 @@
-# Hi there 👍👌👏
+## Hi there 👍👌👏
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
@@ -16,6 +16,9 @@
 
 ## Tech Stack 
 
+![html5](https://user-images.githubusercontent.com/103131773/187870622-4f756450-69c5-41ad-b721-e84a7e6be2ba.png)
+![css](https://user-images.githubusercontent.com/103131773/187870652-da1e5238-1e2c-411d-822c-35b805a65515.png)
+![js](https://user-images.githubusercontent.com/103131773/187870665-62b8d328-c453-4acc-9a53-715cd250362a.png)
 ![python](https://user-images.githubusercontent.com/103131773/187744844-79e4d7a9-49ea-4fa9-83e9-145b4702c855.png)
 ![ie](https://user-images.githubusercontent.com/103131773/187738478-9bb62060-918a-4922-ab58-b1c40c2b28d2.png)
 ![ps](https://user-images.githubusercontent.com/103131773/187738482-24ea4b57-3182-4b50-81cf-466c48197d3d.png)
