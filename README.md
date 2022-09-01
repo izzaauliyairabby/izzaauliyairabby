@@ -1,4 +1,5 @@
-## Hi there <img src="![wave](https://user-images.githubusercontent.com/103131773/187872634-0c05919d-cf28-4608-8850-74a1221ba612.gif, widht =10%, height = 10%)
+## Hi there <img src="![wave](https://user-images.githubusercontent.com/103131773/187873172-e84d9ef1-20d1-4459-8258-76a7018b1afe.gif)
+" width="150" height="280">
 
 # My Name is Izza Auliyai Rabby
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
