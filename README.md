@@ -15,7 +15,7 @@
 - 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
 - ⚡ Fun fact: I love to cuddle with my beloved wife.
 
-## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) 
+## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) ![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
 
 
 ![html5](https://user-images.githubusercontent.com/103131773/187870622-4f756450-69c5-41ad-b721-e84a7e6be2ba.png)
@@ -51,7 +51,7 @@
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
 
-![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
+
 ## Bussiness Owner ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
 
 
