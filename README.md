@@ -3,6 +3,7 @@
 # My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif) 
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure. ![YaDQ (1)](https://user-images.githubusercontent.com/103131773/187975418-51e32d91-a030-410a-bc1b-a25fe18c84ed.gif)
+## has a vision to integrate technological science with several other sciences ![pik (1)](https://user-images.githubusercontent.com/103131773/188007576-1ffc1350-c924-4131-a6d6-579d893fc696.gif)
 
 
 ## About me ![sponge (1)](https://user-images.githubusercontent.com/103131773/187973757-7f1cebc9-e682-440d-a614-72c803e5bb3f.gif) 
@@ -15,7 +16,7 @@
 - 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
 - ⚡ Fun fact: I love to cuddle with my beloved wife.
 
-## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) ![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
+## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) 
 
 
 ![html5](https://user-images.githubusercontent.com/103131773/187870622-4f756450-69c5-41ad-b721-e84a7e6be2ba.png)
