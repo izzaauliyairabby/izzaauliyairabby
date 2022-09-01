@@ -1,12 +1,13 @@
-# Hi there ![wave (1)](https://user-images.githubusercontent.com/103131773/187972640-8f8b6a8f-b7f9-4a65-aff2-77b70e0fddc8.gif)
+# Hola, ![wave (3) (1)](https://user-images.githubusercontent.com/103131773/187973296-7c610234-fa8d-4e94-b331-043c92220907.gif) Brother and Sister!!! 
 
 
-# My Name is Izza Auliyai Rabby
+
+# My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif)
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
 ## A man who likes to learn new things and adventure.
 
 
-## About me
+## About me ![sponge (1)](https://user-images.githubusercontent.com/103131773/187973757-7f1cebc9-e682-440d-a614-72c803e5bb3f.gif)
 - 😄 Pronouns: He/His/Him
 - 🔭 I’m currently building GSSI Group.
 - 🌱 I’m currently learning more about Web3 and Digital Marketing.
@@ -16,7 +17,8 @@
 - 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
 - ⚡ Fun fact: I love to cuddle with my beloved wife.
 
-## Tech Stack 
+## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif)
+
 
 ![html5](https://user-images.githubusercontent.com/103131773/187870622-4f756450-69c5-41ad-b721-e84a7e6be2ba.png)
 ![css](https://user-images.githubusercontent.com/103131773/187870652-da1e5238-1e2c-411d-822c-35b805a65515.png)
@@ -52,7 +54,8 @@
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
 
 
-## Bussiness Owner
+## Bussiness Owner ![anime (1)](https://user-images.githubusercontent.com/103131773/187974581-ecd3d964-0be2-4bc5-95d7-0b075273b76f.gif)
+
 ![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
 ![Zenzen Auliya Store 1](https://user-images.githubusercontent.com/103131773/187739757-5f89e762-fc20-479b-add1-a7e18e8a84e0.png)
 ![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png)
