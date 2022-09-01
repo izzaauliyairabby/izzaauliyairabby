@@ -34,7 +34,7 @@
 ![edge](https://user-images.githubusercontent.com/103131773/187738507-a07aa3ac-d681-48cf-9791-51c2fbb57559.png)
 ![figma](https://user-images.githubusercontent.com/103131773/187738510-3d93f6d3-a1c5-4ada-a4e8-967821b9e4cc.png)
 ![firebase](https://user-images.githubusercontent.com/103131773/187738514-d2986640-80c5-475a-a2c7-883d3b273d82.png)
-![firefox](https://user-images.githubusercontent.com/103131773/187738516-b1a52e9f-bd90-4a70-bfb3-c16d168955df.png) ![simson (1)](https://user-images.githubusercontent.com/103131773/187975730-668cd436-af62-4a0c-a489-a1ae382efaea.gif)
+![firefox](https://user-images.githubusercontent.com/103131773/187738516-b1a52e9f-bd90-4a70-bfb3-c16d168955df.png) 
 ![flutter](https://user-images.githubusercontent.com/103131773/187738518-2966f269-de09-4655-b314-88435c4a918b.png)
 ![git](https://user-images.githubusercontent.com/103131773/187738520-c1c4a99b-dd53-41cd-b0d2-7ecd6c40b64a.png)
 ![gitlab](https://user-images.githubusercontent.com/103131773/187738523-ae3b8d75-8a9d-4b40-9e0e-2bf405315e60.png)
@@ -50,14 +50,14 @@
 ![Group 116](https://user-images.githubusercontent.com/103131773/187738558-673981d1-3f35-4029-af49-2809d70bdbb5.png)
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
-
+![simson (1)](https://user-images.githubusercontent.com/103131773/187975730-668cd436-af62-4a0c-a489-a1ae382efaea.gif)
 
 ## Bussiness Owner ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
 
 
 ![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
 ![Zenzen Auliya Store 1](https://user-images.githubusercontent.com/103131773/187739757-5f89e762-fc20-479b-add1-a7e18e8a84e0.png)
-![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png) ![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
+![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png) 
 ![15623829_370984929935936_7218389846048374784_n 1](https://user-images.githubusercontent.com/103131773/187739761-f8da11d6-5287-46b3-8bbd-421bd0d96db0.png)
-
+![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
    
