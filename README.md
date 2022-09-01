@@ -51,7 +51,7 @@
 ![Group 117](https://user-images.githubusercontent.com/103131773/187738562-dac3f938-7cc4-4f56-9d3b-1ce21744ad24.png)
 ![Group 118](https://user-images.githubusercontent.com/103131773/187738564-97903b93-7954-440d-9fe2-cc423523c5c8.png)
 
-
+![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
 ## Bussiness Owner ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
 
 
@@ -59,5 +59,3 @@
 ![Zenzen Auliya Store 1](https://user-images.githubusercontent.com/103131773/187739757-5f89e762-fc20-479b-add1-a7e18e8a84e0.png)
 ![zyro-image (1) 1](https://user-images.githubusercontent.com/103131773/187739758-bdeb6902-8fb7-4781-8ed1-599ff4d768aa.png) 
 ![15623829_370984929935936_7218389846048374784_n 1](https://user-images.githubusercontent.com/103131773/187739761-f8da11d6-5287-46b3-8bbd-421bd0d96db0.png)
-![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/187975565-fedc1e32-7525-4f19-a3f0-aca665bd6efc.gif)
-   
