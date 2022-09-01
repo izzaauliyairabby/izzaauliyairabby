@@ -10,11 +10,11 @@
 - 🔭 I’m currently building GSSI Group.
 - 🌱 I’m currently learning more about Web3 and Digital Marketing.
 - 👯 I’m looking to collaborate on Linkedin.
-- 🤔 I’m looking for help with Game development. ![pik (1)](https://user-images.githubusercontent.com/103131773/187975914-b22ed736-6a0e-4fba-a74e-7e6578295ad0.gif)
+- 🤔 I’m looking for help with Game development. 
 - 💬 Ask me about Flutter, CG Animation or any tech-related stuff.
 - 📫 How to reach me: @izzaauliyairabby on Instagram or Linkedin.
 - ⚡ Fun fact: I love to cuddle with my beloved wife.
-
+![pik (1)](https://user-images.githubusercontent.com/103131773/187975914-b22ed736-6a0e-4fba-a74e-7e6578295ad0.gif)
 ## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) 
 
 
