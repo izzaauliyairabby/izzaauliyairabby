@@ -1,4 +1,4 @@
-# Hola, ![wave (3) (1)](https://user-images.githubusercontent.com/103131773/187973296-7c610234-fa8d-4e94-b331-043c92220907.gif) Brother and Sister!!! 
+# Hola, ![wave (3) (1)](https://user-images.githubusercontent.com/103131773/187973296-7c610234-fa8d-4e94-b331-043c92220907.gif) Brother and Sister ! 
 
 # My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif) 
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
