@@ -2,10 +2,10 @@
 
 # My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif) ![pik (1)](https://user-images.githubusercontent.com/103131773/187975914-b22ed736-6a0e-4fba-a74e-7e6578295ad0.gif)
 ![Group 2](https://user-images.githubusercontent.com/103131773/187741141-68ff1190-f434-4e4f-ad6b-98be72fe8e8a.png)
-## A man who likes to learn new things and adventure.
+## A man who likes to learn new things and adventure. ![YaDQ (1)](https://user-images.githubusercontent.com/103131773/187975418-51e32d91-a030-410a-bc1b-a25fe18c84ed.gif)
 
 
-## About me ![sponge (1)](https://user-images.githubusercontent.com/103131773/187973757-7f1cebc9-e682-440d-a614-72c803e5bb3f.gif) ![YaDQ (1)](https://user-images.githubusercontent.com/103131773/187975418-51e32d91-a030-410a-bc1b-a25fe18c84ed.gif)
+## About me ![sponge (1)](https://user-images.githubusercontent.com/103131773/187973757-7f1cebc9-e682-440d-a614-72c803e5bb3f.gif) 
 - 😄 Pronouns: He/His/Him
 - 🔭 I’m currently building GSSI Group.
 - 🌱 I’m currently learning more about Web3 and Digital Marketing.
