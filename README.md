@@ -43,6 +43,8 @@
 ![figma](https://user-images.githubusercontent.com/103131773/188167207-d4cd6b27-3052-4637-b22a-82bcaa53e54f.png)
 ![xd](https://user-images.githubusercontent.com/103131773/188167284-b6320bce-23ce-4c28-b340-b5e0712c3e25.png)
 ![firebase](https://user-images.githubusercontent.com/103131773/188167213-81e7b952-4284-401e-99e9-7fbcb007b65c.png)
+![chrome](https://user-images.githubusercontent.com/103131773/188167642-212e719e-f4db-454e-8a20-ece99c6628d4.png)
+![gitlab-1](https://user-images.githubusercontent.com/103131773/188167661-67b3c79c-b6fc-4964-9bb9-b6952812f5b0.png)
 
 
 
