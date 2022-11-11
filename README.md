@@ -1,6 +1,6 @@
 # Hola, ![wave (3) (1)](https://user-images.githubusercontent.com/103131773/187973296-7c610234-fa8d-4e94-b331-043c92220907.gif) Brother and Sister ! 
-# My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif) 
-[LinkedIn cover - 1](https://user-images.githubusercontent.com/103131773/201297353-8ade253d-f042-429b-940c-2b379c35ccc1.png)
+# My Name is Izza Auliyai Rabby ![wave (2)](https://user-images.githubusercontent.com/103131773/187973327-b52faccd-41c2-4a2b-ac58-5756aa19f135.gif) ![LinkedIn cover - 1](https://user-images.githubusercontent.com/103131773/201297510-05659da5-f2de-4a57-a1a4-9bbce5e08524.png)
+
 
 ## A man who likes to learn new things and adventure. ![YaDQ (1)](https://user-images.githubusercontent.com/103131773/187975418-51e32d91-a030-410a-bc1b-a25fe18c84ed.gif) ![pik (1)](https://user-images.githubusercontent.com/103131773/188007761-f1664b65-6c6e-414a-babe-1691307d5a43.gif)![jUUD30C (1)](https://user-images.githubusercontent.com/103131773/188007776-d91470ec-6312-453d-9341-adf523cbb885.gif)
 
