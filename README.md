@@ -18,35 +18,9 @@
 
 ## Tech Stack ![A (1)](https://user-images.githubusercontent.com/103131773/187974065-fe17b4c6-90a1-4c51-8470-32d040e25e96.gif) 
 
-![python](https://user-images.githubusercontent.com/103131773/188166664-ec384f23-02be-4909-9da8-cb0c03519577.png)
-![html5](https://user-images.githubusercontent.com/103131773/188166520-b4f4dfb9-de84-42f4-92d0-1523e3d4cec9.png)
-![css](https://user-images.githubusercontent.com/103131773/188166540-cfc52284-1c66-41f7-b806-d86dc12103a4.png)
-![js](https://user-images.githubusercontent.com/103131773/188166586-0599e7c9-c3d0-477c-b0bd-7ec73026c766.png)
-![flutter](https://user-images.githubusercontent.com/103131773/188166622-772b9296-20c5-4a73-99a5-b3206e55615d.png)
-![swift](https://user-images.githubusercontent.com/103131773/188166778-5582f7ed-84c6-4189-a001-1851739ea665.png)
-![git](https://user-images.githubusercontent.com/103131773/188166638-9888ff7e-89b6-4757-a07e-3c2e6d48265c.png)
-![c++](https://user-images.githubusercontent.com/103131773/188166690-4a6000fc-ce30-4bc8-844f-aef57ab36b73.png)
-![Group 118](https://user-images.githubusercontent.com/103131773/188166707-482a61b1-05ad-48b2-badd-c1bffc965b44.png)
-![vs](https://user-images.githubusercontent.com/103131773/188166721-8ee67d7a-1d61-4935-9484-985fb9320c8e.png)
-![Group 117](https://user-images.githubusercontent.com/103131773/188166736-818a4d64-f059-4626-8e74-7179302f5f25.png)
-![android](https://user-images.githubusercontent.com/103131773/188166912-cb2fe1de-3fee-44f4-8bb1-45c34fca4ff0.png)
-![ps](https://user-images.githubusercontent.com/103131773/188167024-d3ff2fd0-1e0a-450f-91bc-e5ffe121e8b6.png)
-![Group 108](https://user-images.githubusercontent.com/103131773/188167097-461b1fef-2d35-4dfe-952e-ef34d1218b94.png)
-![Group 109](https://user-images.githubusercontent.com/103131773/188167116-948522ee-8b04-430d-b392-f4f4fd2ead6d.png)
-![Group 110](https://user-images.githubusercontent.com/103131773/188167127-c4315bf4-170c-41bc-bec9-c4f9d02fd472.png)
-![Group 111](https://user-images.githubusercontent.com/103131773/188167132-c71427b5-2d13-41f2-beab-51610f3cc94a.png)
-![Group 112](https://user-images.githubusercontent.com/103131773/188167141-c54d0aff-c501-4472-8d1c-388a5e6a3b52.png)
-![Group 113](https://user-images.githubusercontent.com/103131773/188167150-e72280f0-052d-4114-b1a5-714c876b5d01.png)
-![Group 114](https://user-images.githubusercontent.com/103131773/188167153-e85df29b-faab-4ca3-a62e-ab2d17957bef.png)
-![Group 115](https://user-images.githubusercontent.com/103131773/188167159-f0c5d70b-2c15-402c-91aa-ec053c3655d4.png)
-![Group 116](https://user-images.githubusercontent.com/103131773/188167166-5073fc13-3b21-4cef-a1c3-3105df9b0a39.png)
-![figma](https://user-images.githubusercontent.com/103131773/188167207-d4cd6b27-3052-4637-b22a-82bcaa53e54f.png)
-![xd](https://user-images.githubusercontent.com/103131773/188167284-b6320bce-23ce-4c28-b340-b5e0712c3e25.png)
-![firebase](https://user-images.githubusercontent.com/103131773/188167213-81e7b952-4284-401e-99e9-7fbcb007b65c.png)
-![chrome](https://user-images.githubusercontent.com/103131773/188167642-212e719e-f4db-454e-8a20-ece99c6628d4.png)
-![gitlab-1](https://user-images.githubusercontent.com/103131773/188167661-67b3c79c-b6fc-4964-9bb9-b6952812f5b0.png)
-![sublime](https://user-images.githubusercontent.com/103131773/188174911-459239ec-65c2-4494-a4c6-463b18b913c4.png)
-
+Tech Stack:</h1>
+<p><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&amp;logo=codeIgniter&amp;logoColor=white" alt="Code-Igniter"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&amp;logo=socket.io&amp;badgeColor=010101" alt="Socket.io"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&amp;logo=realm&amp;logoColor=white" alt="Realm"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" alt="Adobe Photoshop">     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"></p>
+<hr>
 
 
 ## Bussiness Owner ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
