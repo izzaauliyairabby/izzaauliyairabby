@@ -38,7 +38,7 @@
 
 
 
-## Bussiness Owner ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
+## Bussiness Development ![anime (2)](https://user-images.githubusercontent.com/103131773/187974784-4e58dd86-ffaf-4c25-a32b-10ec1d89e6a8.gif) 
 
 
 ![IMG_20220819_080429_106 1](https://user-images.githubusercontent.com/103131773/187739754-efc044f0-0e88-4997-a3bf-5055b0f3cc4a.png)
